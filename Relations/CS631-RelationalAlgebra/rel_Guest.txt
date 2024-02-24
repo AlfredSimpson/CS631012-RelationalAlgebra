@@ -1,0 +1,9 @@
+Guest = { guestno:number, name:string, city:string, address:string, zipcode:number
+        1,'John Parker','Washington','1600 Pennsylvania ave',37188
+	    2,'River Song','Jersey City','Washburn Street',07306
+		3,'Alfred Simpson','Jersey City','Washburn Street',07306
+		4,'John Smith','Newark','123 Ferry Street',07103
+		5,'Bruce Wayne','Gotham','1007 Mountain Drive',10010
+		6,'Clark Kent','Metropolis','344 Clinton Street',33866
+		7,'Peter Parker','Queens','Queens Blvd',11106
+		}

@@ -1,0 +1,3 @@
+Hotel = { hotelno:number, name:string, city:string, state:string, address:string, zipcode:number, star:number
+1,'Hotel_example','Any Town','NY','Park Ave',10010,5
+}

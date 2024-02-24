@@ -1,0 +1,5 @@
+Booking = { hotelno:number, guestno:number, datefrom:date, dateto:date, roomno:number
+
+1,1,2019-12-14,2020-01-09,5
+
+}

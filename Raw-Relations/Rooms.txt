@@ -1,0 +1,10 @@
+1,1,'Villa 1 Bedroom',81
+2,1,'Deluxe Suite',59
+3,1,'Junior Suite',66
+4,1,'1 King Bed',71
+5,1,'Villa 1 Bedroom',212
+6,1,'Villa 2 Bedroom',317
+7,1,'2 Queen Beds',334
+8,1,'Villa 1 Bedroom',192
+9,1,'Junior Suite',434
+10,1,'Deluxe Suite',395

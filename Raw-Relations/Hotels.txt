@@ -1,0 +1,2 @@
+1,'Hotel_example','Any Town','NY','Park Ave',10010,5
+

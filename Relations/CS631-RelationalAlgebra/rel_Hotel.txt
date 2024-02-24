@@ -1,0 +1,7 @@
+Hotel = { hotelno:number, name:string, city:string, state:string, address:string, zipcode:number, star:number
+			1,'Robert Treat Hotel','Newark','NJ','50 Park Pl',07102,3
+			2,'GITC','Newark','NJ','123 Central Ave',07102,2
+			3,'Kupfrian','Newark','NJ','100 Summit St',07103,1
+			4,'White House','Washington','DC','1600 Pennsylvania Ave',37188,5
+			5,'The Tardis','Jersey City','NJ','Washburn St',07306,5
+			}

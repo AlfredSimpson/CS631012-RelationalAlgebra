@@ -1,0 +1,5 @@
+Guest = { guestno:number, name:string, city:string, address:string, zipcode:number
+
+1,'Al','anywhere','any street',12345
+
+}
